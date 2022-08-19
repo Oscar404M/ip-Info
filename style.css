@@ -28,8 +28,8 @@ body {
 	display:grid;
 	grid-template-columns:auto auto auto auto;
 	justify-content: space-between;
-	margin-top: 40px;
-	padding: 20px;
+	margin: 40px auto;
+	padding: 40px;
 	background-color:white;
 	border-radius:10px;
 }
